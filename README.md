@@ -1,7 +1,9 @@
-# DevOps-Real-Time-Project
-
-# dependencies for Ec2 deployment
-## Getting node js and npm package
+# Cloudops-platform
+---
+## 3-tire-app
+---
+### dependencies for Ec2 deployment
+### Getting node js and npm package
 ```bash
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
 source ~/.bashrc
@@ -27,3 +29,4 @@ corepack prepare pnpm@latest --activate
 ```bash
 pnpm -v
 ```
+
