@@ -4,3 +4,8 @@
 
 ## add everyone whoever in this project 
 
+
+- name : `Omkar `
+- email : `omryakawar@gmail.com `
+
+
