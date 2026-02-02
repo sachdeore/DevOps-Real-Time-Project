@@ -24,5 +24,5 @@
 - name : `kasturi`
 - email : `kasturi.r.baviskar.es@gmail.com`
 
--name : `Bhumika`
--email : `bhumikajiwatode2004@gmail.com `
+- name : `Bhumika`
+- email : `bhumikajiwatode2004@gmail.com `
