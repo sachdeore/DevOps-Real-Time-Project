@@ -26,3 +26,6 @@
 
 - name : `Bhumika`
 - email : `bhumikajiwatode2004@gmail.com `
+
+- name : 'mazain'
+- email :  'mazainshaikh786@gmail.com'
